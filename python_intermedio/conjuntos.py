@@ -13,7 +13,7 @@ print(f"interseccion :{interseccion}")
 
 #Dados dos conjuntos, A y B, escribe un programa en Python que imprima el
 #conjunto de los elementos que se encuentran en A o en B, pero no en ambos.
-print(f"diferencia asimetrica :{ a.symmetric_difference(b)}")
+print(f"diferencia simetrica :{ a.symmetric_difference(b)}")
 
 #Dados un conjunto, A, escribe un programa en Python que imprima si el conjunto es
 #un subconjunto de otro conjunto, B.
